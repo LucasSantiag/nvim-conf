@@ -1,4 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/lucas.cardoso/Serasa/experian-sandbox-base-client-transformation/src/main/scala/com/experian/sandbox/client/base'
-let g:netrw_dirhist_2='/home/lucas.cardoso/Serasa/experian-sandbox-base-client-transformation/src/main/scala/com/experian/sandbox/client/base/process'
