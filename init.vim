@@ -3,7 +3,6 @@ Plug 'morhetz/gruvbox'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'sheerun/vim-polyglot'
 Plug 'roxma/nvim-completion-manager'
-Plug 'w0rp/ale'
 Plug 'cohama/lexima.vim'
 Plug 'scrooloose/nerdtree'
 call plug#end()
