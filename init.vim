@@ -5,6 +5,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'roxma/nvim-completion-manager'
 Plug 'cohama/lexima.vim'
 Plug 'scrooloose/nerdtree'
+Plug 'mattn/emmet-vim'
 call plug#end()
 
 colorscheme gruvbox
