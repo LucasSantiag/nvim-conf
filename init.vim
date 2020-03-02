@@ -1,6 +1,5 @@
 call plug#begin()
 Plug 'morhetz/gruvbox'
-Plug 'terryma/vim-multiple-cursors'
 Plug 'sheerun/vim-polyglot'
 Plug 'roxma/nvim-completion-manager'
 Plug 'cohama/lexima.vim'
@@ -9,20 +8,18 @@ Plug 'mattn/emmet-vim'
 Plug 'exitface/synthwave.vim'
 call plug#end()
 
-"colorscheme gruvbox
 set background=dark
 color synthwave
 
 if has('termguicolors')
-  set termguicolors " 24-bit terminal
+  set termguicolors
 else
-  let g:synthwave_termcolors=256 " 256 color mode
+  let g:synthwave_termcolors=256
 endif
 
 set hidden
 
 set number
-"set relativenumber
 set mouse=a
 set inccommand=split
 
