@@ -1,0 +1,22 @@
+cc -> copy and delete the line
+ctrl + e -> down visual
+ctrl + y -> up visual
+gg -> firstLine
+I -> insert mode beginning of the line
+A -> insert mode end of the line
+i -> insert or in
+a -> append or all
+t -> 'til
+c -> change
+y -> yank
+p -> paste below
+P -> paste above
+o -> new line insert mode
+zz -> centrilize
+w -> word
+. -> repeat
+:earlier {num}m -> back to the file num minutes ago
+f -> find forward
+F -> find backward
+q{name} q -> macro
+@{name} -> use macros
