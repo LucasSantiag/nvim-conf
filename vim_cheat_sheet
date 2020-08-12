@@ -20,3 +20,7 @@ f -> find forward
 F -> find backward
 q{name} q -> macro
 @{name} -> use macros
+:vimgrep/SOMETHING/**
+:cn
+:cp
+
